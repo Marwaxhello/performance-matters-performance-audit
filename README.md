@@ -16,7 +16,7 @@ Vind goedkope vluchten en bespaar geld op vliegtickets naar elke bestemming in d
 
 <img width="1091" alt="Screenshot 2023-05-12 at 15 35 59" src="https://github.com/Marwaxhello/performance-matters-performance-audit/assets/112861555/3e02c48b-20f7-48aa-b119-6455d889c396">
 
-"Ik vond deze test een beetje moeilijk omdat ik in het begin niet begreep wat ik aan het doen was, ik moest veel lezen om te begrijpen welke functies ze elk hadden.
+Ik vond deze test een beetje moeilijk omdat ik in het begin niet begreep wat ik aan het doen was, ik moest veel lezen om te begrijpen welke functies ze elk hadden.
 
 
 ## Licentie

@@ -4,9 +4,9 @@
 
 Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
-## Titel Website
+## Cheaptickets.nl
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+<img width="1542" alt="Screenshot 2023-05-12 at 16 24 50" src="https://github.com/Marwaxhello/performance-matters-performance-audit/assets/112861555/6c24b228-dbd5-4b69-9208-6dd793dafc6f">  
 
 Toon een screenshot van de performance test.
 
